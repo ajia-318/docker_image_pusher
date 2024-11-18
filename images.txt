@@ -9,5 +9,6 @@ b3log/siyuan
 diygod/rsshub
 browserless/chrome 
 redis:alpine
+moelin/1panel
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
