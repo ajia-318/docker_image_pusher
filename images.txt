@@ -14,5 +14,5 @@ moelin/1panel
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/immich-app/immich-machine-learning:v1.121.0
 docker.io/redis:6.2-alpine
-docker.io/tensorchord/pgvecto-rs：latest
+docker.io/tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/immich-app/immich-server:pr-14255
