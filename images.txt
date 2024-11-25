@@ -16,3 +16,4 @@ ghcr.io/immich-app/immich-machine-learning:v1.121.0-openvino
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/immich-app/immich-server:pr-14255
+ionewu/owjdxb:latest
