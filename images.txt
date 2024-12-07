@@ -18,4 +18,5 @@ nginx
 #ghcr.io/immich-app/immich-server:pr-14255
 #--platform=linux/arm64 ionewu/owjdxb:latest
 #dockurr/windows
-mzz2017/v2raya
+#mzz2017/v2raya
+pixman/pixman
