@@ -20,3 +20,4 @@ nginx
 #dockurr/windows
 #mzz2017/v2raya
 #pixman/pixman
+homeassistant/home-assistant
