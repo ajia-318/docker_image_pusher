@@ -6,7 +6,7 @@ nginx
 #mysql:8.3.0
 #cooderl/wewe-rss:latest
 #b3log/siyuan
-#diygod/rsshub
+diygod/rsshub
 #browserless/chrome 
 #redis:alpine
 #moelin/1panel
@@ -21,4 +21,5 @@ nginx
 #mzz2017/v2raya
 #pixman/pixman
 #homeassistant/home-assistant
-lmk123/migpt-server
+#lmk123/migpt-server
+gdy666/lucky:latest
