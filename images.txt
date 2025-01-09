@@ -24,4 +24,5 @@ nginx
 #lmk123/migpt-server
 #gdy666/lucky:latest
 #nastool/nas-tools
-mzz2017/v2raya
+#mzz2017/v2raya
+ionewu/owjdxb
